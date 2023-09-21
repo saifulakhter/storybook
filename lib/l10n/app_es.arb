@@ -1,0 +1,14 @@
+{
+  "@@locale": "es",
+  "title": "Visor de Historias",
+  "search_hint": "Buscar...",
+  "increase_font_size": "Aumentar Tamaño de Fuente",
+  "decrease_font_size": "Disminuir Tamaño de Fuente",
+  "previous_page": "Página Anterior",
+  "next_page": "Página Siguiente",
+  "share_story": "Compartir",
+  "dark_mode": "Modo Oscuro",
+  "light_mode": "Modo Claro",
+  "play": "Reproducir",
+  "stop": "Detener"
+}
